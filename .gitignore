@@ -34,3 +34,8 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# Additional Stuff
+assets
+.ipynb_checkpoints
+recordings/ubuntu-*
